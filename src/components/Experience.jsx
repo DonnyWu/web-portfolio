@@ -1,6 +1,4 @@
 import React from "react";
-import HTML from "../logo/html_logo.png";
-import CSS from "../logo/css_logo.png";
 import React_logo from "../logo/react_logo.png";
 import Github from "../logo/github_logo.png";
 import Dotnet from "../logo/.Net_logo.png"
