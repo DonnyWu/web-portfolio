@@ -11,6 +11,8 @@ import Java from "../logo/Java.webp"
 import Springboot from "../logo/Springboot.webp" 
 import mongoDb from "../logo/mongodb.png"
 import python from "../logo/python.png"
+import Claude from "../logo/claudecode.png"
+import Docker from "../logo/docker.png"
 
 const Experiences = () => {
   return (
@@ -38,6 +40,13 @@ const Experiences = () => {
             {/*    />*/}
             {/*    <p>.NET</p>*/}
             {/*</div>*/}
+
+            <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                <img className="w-20 mx-auto"
+                        src={Claude}
+                        alt="Claude Code icon" />
+                <p>Claude Code</p>
+            </div>
             
             <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                 <img className="w-20 mx-auto"
@@ -93,17 +102,10 @@ const Experiences = () => {
 
             <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                 <img className="w-20 mx-auto"
-                        src={HTML}
-                        alt="HTML icon" />
-                <p>HTML</p>
-            </div>
-
-            <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                <img className="w-20 mx-auto"
-                          src={CSS}
-                          alt="CSS icon"
+                          src={Docker}
+                          alt="Docker icon"
                 />
-                <p>CSS</p>
+                <p>Docker</p>
             </div>
 
             <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
