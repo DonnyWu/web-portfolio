@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Web_portfoilo/static/css/main.81c52aa1.css",
-    "main.js": "/Web_portfoilo/static/js/main.57c8d911.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Web_portfoilo/static/js/787.28cb0dcd.chunk.js",
-    "static/media/mitsubishi-board.jpeg": "/Web_portfoilo/static/media/mitsubishi-board.b48c03d7e8f6a6c7d79c.jpeg",
-    "static/media/Allscripts-Platform-team.jpg": "/Web_portfoilo/static/media/Allscripts-Platform-team.b9e59cf3a8ad87ee53b5.jpg",
-    "static/media/Donnies_Resume_June_2026.pdf": "/Web_portfoilo/static/media/Donnies_Resume_June_2026.696068ecea41f824dfdc.pdf",
-    "static/media/Logo_C_sharp.svg.png": "/Web_portfoilo/static/media/Logo_C_sharp.svg.766c48210078f0dd2fa1.png",
-    "static/media/Profile.jpg": "/Web_portfoilo/static/media/Profile.3c0910ae41d65f6dd91e.jpg",
-    "static/media/react_logo.png": "/Web_portfoilo/static/media/react_logo.0cf951a69d8e58f83f9d.png",
-    "static/media/github_logo.png": "/Web_portfoilo/static/media/github_logo.3b9e32903aa89111875d.png",
-    "static/media/python.png": "/Web_portfoilo/static/media/python.b21164d5bee65840d23a.png",
-    "static/media/Java.webp": "/Web_portfoilo/static/media/Java.256ea6a5d5c5639bfbe4.webp",
-    "static/media/mitsubishi.jpg": "/Web_portfoilo/static/media/mitsubishi.716a3008bf360a25e597.jpg",
-    "static/media/Springboot.webp": "/Web_portfoilo/static/media/Springboot.064f0a745470999a7844.webp",
-    "static/media/github-copilot-icon.webp": "/Web_portfoilo/static/media/github-copilot-icon.683095d383cc449d8ea6.webp",
-    "index.html": "/Web_portfoilo/index.html",
-    "main.81c52aa1.css.map": "/Web_portfoilo/static/css/main.81c52aa1.css.map",
-    "main.57c8d911.js.map": "/Web_portfoilo/static/js/main.57c8d911.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Web_portfoilo/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/web-portfolio/static/css/main.81c52aa1.css",
+    "main.js": "/web-portfolio/static/js/main.2f9570bd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/web-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/mitsubishi-board.jpeg": "/web-portfolio/static/media/mitsubishi-board.b48c03d7e8f6a6c7d79c.jpeg",
+    "static/media/Allscripts-Platform-team.jpg": "/web-portfolio/static/media/Allscripts-Platform-team.b9e59cf3a8ad87ee53b5.jpg",
+    "static/media/Donnies_Resume_June_2026.pdf": "/web-portfolio/static/media/Donnies_Resume_June_2026.696068ecea41f824dfdc.pdf",
+    "static/media/Logo_C_sharp.svg.png": "/web-portfolio/static/media/Logo_C_sharp.svg.766c48210078f0dd2fa1.png",
+    "static/media/Profile.jpg": "/web-portfolio/static/media/Profile.3c0910ae41d65f6dd91e.jpg",
+    "static/media/react_logo.png": "/web-portfolio/static/media/react_logo.0cf951a69d8e58f83f9d.png",
+    "static/media/github_logo.png": "/web-portfolio/static/media/github_logo.3b9e32903aa89111875d.png",
+    "static/media/python.png": "/web-portfolio/static/media/python.b21164d5bee65840d23a.png",
+    "static/media/Java.webp": "/web-portfolio/static/media/Java.256ea6a5d5c5639bfbe4.webp",
+    "static/media/mitsubishi.jpg": "/web-portfolio/static/media/mitsubishi.716a3008bf360a25e597.jpg",
+    "static/media/Springboot.webp": "/web-portfolio/static/media/Springboot.064f0a745470999a7844.webp",
+    "static/media/github-copilot-icon.webp": "/web-portfolio/static/media/github-copilot-icon.683095d383cc449d8ea6.webp",
+    "index.html": "/web-portfolio/index.html",
+    "main.81c52aa1.css.map": "/web-portfolio/static/css/main.81c52aa1.css.map",
+    "main.2f9570bd.js.map": "/web-portfolio/static/js/main.2f9570bd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/web-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81c52aa1.css",
-    "static/js/main.57c8d911.js"
+    "static/js/main.2f9570bd.js"
   ]
 }
