@@ -3,7 +3,7 @@ import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { GrNotes } from "react-icons/gr";
 import { HiMailOpen } from "react-icons/hi";
 import { Link } from "react-scroll";
-import pdf from '../Documents/Donnies_Resume_June_2026.pdf';
+import pdf from '../Documents/Donnies_Resume_July_2026.pdf';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
