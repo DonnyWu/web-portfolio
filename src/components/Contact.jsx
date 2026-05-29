@@ -7,8 +7,8 @@ const Contact = () => {
     // #0E2839
 
 
-  <div name="contact" className="w-full h-screen bg-gradient-to-b from-[#24305E] to-[#374785] text-gray-300">
-      <div className="flex flex-col justify-center items-center w-full h-full">
+    <div name="contact" className="w-full min-h-screen pt-20 bg-gradient-to-b from-[#24305E] to-[#374785] text-gray-300">
+      <div className="flex flex-col justify-start items-center w-full">
       <div className="max-w-[1000px] w-full grid grid-cols-1 sm:grid-cols-2 gap-8 px-4">
         <div className="sm:text-right text-1xl font-bold">
 
