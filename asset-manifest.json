@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web-portfolio/static/css/main.81c52aa1.css",
-    "main.js": "/web-portfolio/static/js/main.3fe13f05.js",
+    "main.css": "/web-portfolio/static/css/main.d0d7179e.css",
+    "main.js": "/web-portfolio/static/js/main.2fb5e891.js",
     "static/js/787.28cb0dcd.chunk.js": "/web-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/mitsubishi-board.jpeg": "/web-portfolio/static/media/mitsubishi-board.b48c03d7e8f6a6c7d79c.jpeg",
     "static/media/Allscripts-Platform-team.jpg": "/web-portfolio/static/media/Allscripts-Platform-team.b9e59cf3a8ad87ee53b5.jpg",
@@ -16,12 +16,12 @@
     "static/media/Springboot.webp": "/web-portfolio/static/media/Springboot.064f0a745470999a7844.webp",
     "static/media/github-copilot-icon.webp": "/web-portfolio/static/media/github-copilot-icon.683095d383cc449d8ea6.webp",
     "index.html": "/web-portfolio/index.html",
-    "main.81c52aa1.css.map": "/web-portfolio/static/css/main.81c52aa1.css.map",
-    "main.3fe13f05.js.map": "/web-portfolio/static/js/main.3fe13f05.js.map",
+    "main.d0d7179e.css.map": "/web-portfolio/static/css/main.d0d7179e.css.map",
+    "main.2fb5e891.js.map": "/web-portfolio/static/js/main.2fb5e891.js.map",
     "787.28cb0dcd.chunk.js.map": "/web-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81c52aa1.css",
-    "static/js/main.3fe13f05.js"
+    "static/css/main.d0d7179e.css",
+    "static/js/main.2fb5e891.js"
   ]
 }
