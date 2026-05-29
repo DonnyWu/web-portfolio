@@ -13,7 +13,7 @@ const Navbar = () => {
 
     // scrollbar for webview
 
-    <div className="fixed w-full h-[80px] flex justify-end items-center px-4 bg-[#FFFFFF] backdrop-filter backdrop-blur-lg bg-opacity-30 text-gray-300">
+    <div className="fixed z-50 w-full h-[80px] flex justify-end items-center px-4 bg-[#FFFFFF] backdrop-filter backdrop-blur-lg bg-opacity-30 text-gray-300">
       <ul className="hidden md:flex">
         <li>
           <Link to="home" smooth={true} duration={500}>
