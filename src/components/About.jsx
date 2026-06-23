@@ -14,11 +14,11 @@ const About = () => {
         style={{ background: 'linear-gradient(180deg, #102E43 0%, #102E43 10%, #008080 100%)' }}
       >
           <div className="flex flex-col justify-center items-center w-full h-full">
-            <img
+            {/* <img
               src={profile}
               alt="profile"
               className="mx-auto rounded-full object-cover w-32 h-32 sm:w-48 sm:h-48 md:w-96 md:h-96 mb-8"
-            />
+            /> */}
           
   
         
