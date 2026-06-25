@@ -1,5 +1,4 @@
 import React from "react";
-import profile from '../logo/Profile.jpg';
 
 
 const About = () => {
