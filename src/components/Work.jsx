@@ -5,11 +5,14 @@ import Allscript from '../logo/Allscript-logo.png';
 import Mitsubishi from '../logo/mitsubishi.jpg';
 import MitsubishiBoard from '../logo/mitsubishi-board.jpeg';
 import AllscriptsTeam from '../logo/Allscripts-Platform-team.jpg';
+import Serendie from '../logo/serendie-logo.jpg';
+import SerendieOffice from '../logo/serendie-office.jpg';
 
 const Work = () => {
     const [openModal0, setOpenModal0] = useState(false);
     const [openModal1, setOpenModal1] = useState(false);
     const [openModal2, setOpenModal2] = useState(false);
+    const [openModal3, setOpenModal3] = useState(false);
   return (
     // #102E43
     // #0a192f
@@ -23,6 +26,38 @@ const Work = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+
+            <div
+                style={{ backgroundImage: `url(${Serendie})` }}
+                className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div "
+            >
+                <div>
+                    <InfoModal
+                        open={openModal3}
+                        onClose={() => setOpenModal3(false)}
+                        image={SerendieOffice}
+                        square
+                        frameBg="linear-gradient(180deg, #14352B 0%, #123A46 60%, #102E43 100%)"
+                        caption={<>New Team, New Energy<br />- Serendie Innovation Hub, 2026</>}
+                        title="Software Development Engineer"
+                    >
+                      <p>{'•'}Design and ship context-aware agentic workflows over MPro's enterprise architecture, encoding system constraints and domain rules into structured Markdown context for LLM consumption</p>
+                      <p>{'•'}Own LLM tooling integration across the team SDLC (Anthropic Claude, GitHub Copilot), building the prompt patterns and repo context layer that the team's development, debugging, and code review workflow now runs on</p>
+                      <p>{'•'}Architect FastAPI ingestion and synchronization pipelines across Salesforce and Snowflake, producing the high-integrity, model-consumable warranty and asset-lifecycle datasets that downstream AI services depend on</p>
+                      <p>{'•'}Co-own MPro's B2B Distributor Portal in a 2-dev team, delivering nationwide commercial warranty registration to 110,000+ users across 5,500+ distributors on Mitsubishi Electric's HVAC design and engineering platform</p>
+                      <p>{'•'}Implement Distributor Portal interfaces in React and Vite using the Serendie Design System, translating Mitsubishi Electric's open-sourced Figma component specs into production UI</p>
+                      <p>{'•'}Deploy containerized applications and data infrastructure with Docker across secure AWS environments</p>
+                    </InfoModal>
+                    <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center">
+                        <span className="text-2xl font-bold text-white tracking-wider text-center">
+                            Mitsubishi Electric Inc. SERENDIE
+                        </span>
+                        <div>
+                            <button onClick={() => setOpenModal3(true)} className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg content-center">Description</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
           <div
                 style={{ backgroundImage: `url(${Mitsubishi})` }}

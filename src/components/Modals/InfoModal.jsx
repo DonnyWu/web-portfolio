@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../Modal.css';
 
-const InfoModal = ({ open, onClose, image, title, caption, children }) => {
+const InfoModal = ({ open, onClose, image, title, caption, square, frameBg, children }) => {
   if (!open) return null;
   return (
     <div onClick={onClose} className='overlay'>
@@ -14,7 +14,12 @@ const InfoModal = ({ open, onClose, image, title, caption, children }) => {
         {/* Experince logo */}
         <div className="polaroidWrap">
           {image ? (
-            <img className='companyImg' src={image} alt='/' />
+            <img
+              className={square ? 'companyImg square' : 'companyImg'}
+              style={frameBg ? { background: frameBg } : undefined}
+              src={image}
+              alt='/'
+            />
           ) : (
             <div className='polaroidPlaceholder'>Coming Soon</div>
           )}

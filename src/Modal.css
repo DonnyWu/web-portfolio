@@ -86,6 +86,14 @@
   margin-bottom: -6px; /* overlap image into the base to visually shorten the white strip */
 }
 
+/* square polaroid: pads a portrait photo to either side.
+   the fill defaults to white; pass frameBg to InfoModal to tint it. */
+.companyImg.square {
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  background: #ffffff;
+}
+
 /* stand-in for .companyImg until real project screenshots exist */
 .polaroidPlaceholder {
   width: 100%;
