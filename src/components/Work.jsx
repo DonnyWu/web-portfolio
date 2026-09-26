@@ -38,7 +38,7 @@ const Work = () => {
                         image={SerendieOffice}
                         square
                         frameBg="linear-gradient(180deg, #14352B 0%, #123A46 60%, #102E43 100%)"
-                        caption={<>New Team, New Energy<br />- Serendie Innovation Hub, 2026</>}
+                        caption={<>New Team, New Innovation<br />- Serendie Innovation Hub, Cambridge, 2026</>}
                         title="Software Development Engineer"
                     >
                       <p>{'•'}Design and ship context-aware agentic workflows over MPro's enterprise architecture, encoding system constraints and domain rules into structured Markdown context for LLM consumption</p>
@@ -68,12 +68,12 @@ const Work = () => {
                         open={openModal2}
                         onClose={() => setOpenModal2(false)}
                         image={MitsubishiBoard}
-                        caption="A visit to Mitsubishi Electric Headquarters Tokyo 7-11-24"
+                        caption="A visit to Mitsubishi Electric Headquarters - Tokyo 7-11-24"
                         title="Software Development Engineer"
                     >
                       <p>{'•'}Developed core features for the GENESIS64 recipe component, enabling real-time creation and management of industrial manufacturing recipes</p>
                       <p>{'•'}Automated QA workflows by developing end-to-end test suites using Selenium and Appium, significantly reducing manual testing cycles</p>
-                      <p>{'•'}Collaborated on Migrating ScheduleWorX module code from C++ to C# , transitioning the architecture from 32-bit to 64-bit to enhance system performance and maintainability</p>
+                      <p>{'•'}Collaborated on migrating ScheduleWorX module code from C++ to C#, transitioning the architecture from 32-bit to 64-bit to enhance system performance and maintainability</p>
                       <p>{'•'}Managed and configured QA environments, for both manual tests and automated testing, ensuring reliable test execution</p>
                     </InfoModal>
                     <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center">
@@ -105,8 +105,8 @@ const Work = () => {
                 <p>{'•'} Handle incoming tickets pertaining to client’s custom built EZMaxMobile with support team and team architect</p> */}
                 <p>{'•'}Developed flagship mobile applications (EZMaxMobile) using Java, Spring Boot, and TypeScript, integrating complex IBM Maximo Business Object APIs to meet custom client requirements</p>
                 <p>{'•'}Customized UI/UX layouts for the EZMaxRequest platform using React.js, improving user navigation and interface responsiveness</p>
-                <p>{'•'}Validated cross-platform compatibility between mobile interfaces and backend IBM Maximo databases throughrigorous environment testing</p>
-                <p>{'•'}Resolved high-priority technical tickets in collaboration with architects and support teams to maintain Client-Specific builds</p>
+                <p>{'•'}Validated cross-platform compatibility between mobile interfaces and backend IBM Maximo databases through rigorous environment testing</p>
+                <p>{'•'}Resolved high-priority technical tickets in collaboration with architects and support teams to maintain client-specific builds</p>
               </InfoModal>
               <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center">
                 <span className="text-2xl font-bold text-white tracking-wider text-center">
@@ -138,8 +138,8 @@ const Work = () => {
                       <p>{'•'} Participated in code review with my mentors to ensure test files followed good coding practices</p> */}
                       <p>{'•'}Automated regression testing for the Access Manager business layer using C#, ASP.NET, and Microsoft Azure web services</p>
                       <p>{'•'}Developed audit test cases to verify authorization security protocols within the Access Manager database</p>
-                      <p>{'•'}Designed audit test cases to validate and cross-check authorization data within the AccessManager SQL Database,data integrity and security compliance.</p>
-                      <p>{'•'}Setup quality assurance testing environment in order to run test case manually within Access Manager</p>
+                      <p>{'•'}Designed audit test cases to validate and cross-check authorization data within the AccessManager SQL Database, ensuring data integrity and security compliance</p>
+                      <p>{'•'}Set up quality assurance testing environment to run test cases manually within Access Manager</p>
                       <p>{'•'}Identified and documented critical bugs using Team Foundation Server (TFS), collaborating with Developers and the Principal Architect to implement fixes</p>
                     </InfoModal>
                     <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center">
